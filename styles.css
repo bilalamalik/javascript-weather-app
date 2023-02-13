@@ -1,0 +1,9 @@
+body{
+    background-color: #ccc;
+}
+.weather-app-wrapper{
+    width: 300px;
+}
+.day-time{
+    width: 300px;
+}
